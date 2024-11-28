@@ -20,7 +20,10 @@
   
  <hr>
   <center>
+       <img align="center" alt="270" height="270" style= "border-radius:80px;" src="para readme/gif power.gif">
   <div style="display: flex;" align="center"><br>
+       
+
    <img align="center" alt="JWsley-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Js" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="JWsley-CSS" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,8 +33,7 @@
     
 
   
-   
-   <img align="center" alt="270" height="270" style= "border-radius:18px;" src="para readme/gif power.gif">
+
 </div>       
     </center>
 
