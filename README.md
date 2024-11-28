@@ -31,7 +31,7 @@
 
   
    
-   <img align="center" alt="500" height="500" style= "border-radius:80px;" src="https://github.com/ZBellzz/ZBellzz/issues/1#issue-2703313290">
+   <img align="center" alt="500" height="500" style= "border-radius:80px;" src="![gif power](https://github.com/user-attachments/assets/821f4148-2832-46fc-9be5-d3d04bea11b3)">
 </div>       
     </center>
  
