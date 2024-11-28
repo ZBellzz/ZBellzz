@@ -10,9 +10,9 @@
   
   <a href="app.lofi.co">
     <a href="app.lofi.co">    
-     <img height="150rem" width="300rem"  alt="JWsley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JWsley?cardType=github&theme=merko" />  </a>
+     <img height="150rem" width="300rem"  alt="ZBellzz's GitHub Stats" src="" />  </a>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=JWsley&theme=merko)
+![Top Langs ]()
     
    
 </div>
@@ -27,16 +27,16 @@
    <img align="center" alt="JWsley-MySQL" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
     
-   <img align="center" alt="JWsley-Ionic" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+   <img align="center" alt="" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   
     
-   <img align="center" alt="JWsley-TypeScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+   <img align="center" alt="" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
    <a href="https://github.com/JWsley/crudPHP-Completo"><img align="center" alt="JWsley-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
     
     
-   <img align="center" alt="JWsley-Wordpress" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+   <img align="center" alt="" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
    
-   <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
+   <img align="center" alt="" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
 </div>       
     </center>
  
