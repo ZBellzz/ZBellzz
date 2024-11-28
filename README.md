@@ -31,7 +31,7 @@
 
   
    
-   <img align="center" alt="" height="150" style= "border-radius:80px;" src="https://flyclipart.com/thumb2/scratch-studio-179025.png">
+   <img align="center" alt="" height="150" style= "border-radius:80px;" src="https://github.com/ZBellzz/ZBellzz/issues/1#issue-2703313290">
 </div>       
     </center>
  
