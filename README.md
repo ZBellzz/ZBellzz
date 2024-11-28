@@ -31,7 +31,7 @@
 
   
    
-   <img align="center" alt="500" height="500" style= "border-radius:80px;" src="para readme/gif power.gif">
+   <img align="center" alt="270" height="270" style= "border-radius:18px;" src="para readme/gif power.gif">
 </div>       
     </center>
 
