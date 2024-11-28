@@ -34,7 +34,8 @@
    <img align="center" alt="500" height="500" style= "border-radius:80px;" src="![gif power](https://github.com/user-attachments/assets/821f4148-2832-46fc-9be5-d3d04bea11b3)">
 </div>       
     </center>
- 
+ ![gif power](https://github.com/user-attachments/assets/6d282b74-1f8e-4168-8ce8-a5540784612a)
+
   
 
   <center>
