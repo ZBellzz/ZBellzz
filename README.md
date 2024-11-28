@@ -11,9 +11,9 @@
   
   <a href="app.lofi.co">
     <a href="app.lofi.co">    
-     <img height="150rem" width="300rem"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=merko" />  </a>
+     <img height="150rem" width="300rem"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=synthwave" />  </a>
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBellzz&theme=merko)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBellzz&theme=synthwave)
     
    
 </div>
