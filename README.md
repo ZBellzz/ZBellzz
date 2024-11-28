@@ -31,7 +31,7 @@
 
   
    
-   <img align="center" alt="150" height="150" style= "border-radius:80px;" src="https://github.com/ZBellzz/ZBellzz/issues/1#issue-2703313290">
+   <img align="center" alt="500" height="500" style= "border-radius:80px;" src="https://github.com/ZBellzz/ZBellzz/issues/1#issue-2703313290">
 </div>       
     </center>
  
