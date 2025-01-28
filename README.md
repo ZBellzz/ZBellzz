@@ -17,16 +17,18 @@
    
 </div>
   
- <hr>
-  <center>
-       <img  alt="270" height="270" style= "border-radius:80px;" src="para readme/gif power.gif">
-  <div style="display: flex;" align="center"><br>
-       
 
-   <img align="center" alt="JWsley-HTML" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Js" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="JWsley-CSS" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="https://github.com/JWsley/Project-Coffe"><img align="center" alt="JWsley-Python" height="30" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+    
+  <a href="app.lofi.co">
+    <a href="app.lofi.co">    
+           </a>
+      <div style="display: flex;" align="center"><br>
+    
+   <img align="center" alt="JWsley-HTML" height="50" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Js" height="50" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="JWsley-CSS" height="50" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <a href="https://github.com/JWsley/Project-Coffe"><img align="center" alt="JWsley-Python" height="50" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+   <img align="center" alt="minhoro-photo" height="150" style= "border-radius:80px;" src="para readme/gif power.gif">
 
   
     
