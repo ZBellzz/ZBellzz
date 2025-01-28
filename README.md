@@ -1,4 +1,4 @@
-#                                  <p  align="center"> <span><<</span>==============<br> ZBellzz  <img width="400" height="15" src="https://profile-counter.glitch.me/ZBellzz/count.svg" /><br>==============<span>>></span><br> </p>
+#                                  <p  align="center"> <span><<</span>==============<br> ZBellzz  <img width="100" height="15" src="https://profile-counter.glitch.me/ZBellzz/count.svg" /><br>==============<span>>></span><br> </p>
 ![worldMap](https://img.freepik.com/vetores-gratis/ilustracao-de-estilo-chines-desenhada-a-mao_23-2149752346.jpg)
 
 
@@ -11,7 +11,7 @@
   
   <a href="app.lofi.co">
     <a href="app.lofi.co">    
-     <img height="150rem" width="300rem"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=synthwave" />  </a>
+     <img height="150rem" width="400"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=synthwave" />  </a>
 
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBellzz&theme=synthwave)
     
