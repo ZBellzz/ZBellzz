@@ -1,5 +1,5 @@
 #                                  <p  align="center"> <span><<</span>==============<br> ZBellzz  <img width="100" height="15" src="https://profile-counter.glitch.me/ZBellzz/count.svg" /><br>==============<span>>></span><br> </p>
-![worldMap](https://github.com/JWsley/JWsley/blob/main/img/World-Map.svg)
+![worldMap](https://img.freepik.com/vetores-gratis/ilustracao-de-estilo-chines-desenhada-a-mao_23-2149752346.jpg)
 
 
 
