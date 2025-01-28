@@ -1,9 +1,8 @@
-#                                  <p  align="center"> <span><<</span>==============<br> ZBellzz  <img width="100" height="15" src="https://profile-counter.glitch.me/ZBellzz/count.svg" /><br>==============<span>>></span><br> </p>
-![worldMap](https://img.freepik.com/vetores-gratis/ilustracao-de-estilo-chines-desenhada-a-mao_23-2149752346.jpg)
+#                                  <p  align="center"> <span><<</span>-------------<br> ZBellzz   ![](https://komarev.com/ghpvc/?username=ZBellzz-github-ZBellzz&color=blueviolet) <br>-------------<span>>></span><br> </p>
 
 
 
-
+<img src="https://i.pinimg.com/originals/ca/0f/0e/ca0f0ed42f907be80e8fd356400a9c96.gif" width='1000' height='450' alt="">
                                                                                                                   
 <div align="center">
   
@@ -11,7 +10,7 @@
   
   <a href="app.lofi.co">
     <a href="app.lofi.co">    
-     <img height="150rem" width="400"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=synthwave" />  </a>
+     <img height="150rem" width="300rem"  alt="ZBellzz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ZBellzz?cardType=github&theme=synthwave" />  </a>
 
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBellzz&theme=synthwave)
     
@@ -20,7 +19,7 @@
   
  <hr>
   <center>
-       <img align="center" alt="270" height="270" style= "border-radius:80px;" src="para readme/gif power.gif">
+       <img  alt="270" height="270" style= "border-radius:80px;" src="para readme/gif power.gif">
   <div style="display: flex;" align="center"><br>
        
 
